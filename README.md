@@ -1,3 +1,3 @@
 # git-demo
 repo to learn the git
-readme file modified manually from github web interface.one more edit from local repo
+added this line instead of merging the line from local or remote repo
